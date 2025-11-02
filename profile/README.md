@@ -1,12 +1,20 @@
-## Hi there 👋
+# Wave3 
 
-<!--
+Plataforma de streaming musical descentralizada que utiliza blockchain, tokens y machine learning para recomendación personalizada y distribución automática de regalías entre artistas e inversores.
 
-**Here are some ideas to get you started:**
+## Integrantes
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Tutor: Damian Martinelli
+
+| Alumno                     | Padrón | Email                  |
+|----------------------------|--------|------------------------|
+| Bogovic Federico Ezequiel  | 96722  | fbogovic@fi.uba.ar     |
+| Bravo Arroyo Víctor Manuel | 98882  | vbravo@fi.uba.ar       |
+| Vetrano Ignacio Ezequiel   | 106129 | ivetrano@fi.uba.ar     |
+| Williner Mariano           | 83469  | mwilliner@fi.uba.ar    |
+
+## Link Útiles
+
+- [Example Mapping en Miro](https://miro.com/app/board/uXjVJxMfnUI=/)
+- [Propuesta en Google Docs](https://docs.google.com/document/d/1KrLmBsyBvf-pJ72CJoVki_mfci-YreGM5WWWTBtif7U/edit?usp=sharing)
+- [Backlog en Github](https://github.com/orgs/wave3org/projects/1)

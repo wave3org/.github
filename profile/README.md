@@ -18,3 +18,6 @@ Tutor: Damian Martinelli
 - [Example Mapping en Miro](https://miro.com/app/board/uXjVJxMfnUI=/)
 - [Propuesta en Google Docs](https://docs.google.com/document/d/1KrLmBsyBvf-pJ72CJoVki_mfci-YreGM5WWWTBtif7U/edit?usp=sharing)
 - [Backlog en Github](https://github.com/orgs/wave3org/projects/1)
+
+## Respositorios
+- [Edición de este README.md](https://github.com/wave3org/.github)
